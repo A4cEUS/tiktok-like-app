@@ -1,4 +1,4 @@
-# TikTok Clone App
+# TikTok like video App
 
 This project is a TikTok-like application that allows users to upload videos, comment on them, like them, and share them with others. The application is built using Node.js as the backend framework with a MongoDB database.
 
